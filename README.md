@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @coding-frog117
+- 👋 Hi, I’m @coding-frog117 
+- 개발짱이 되고 싶은 송예은입니다.
 - 👀 I’m interested in react
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
